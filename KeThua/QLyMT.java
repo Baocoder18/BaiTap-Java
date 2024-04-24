@@ -1,3 +1,4 @@
+package KeThua;
 import java.util.ArrayList;
 import java.util.Scanner;
 
@@ -29,7 +30,7 @@ public class QLyMT {
         }
         for (int i = 0; i < danhSachMayTinh.size(); i++) {
             if(danhSachMayTinh.get(i).getNhanHieu().trim().equalsIgnoreCase("intel")){
-                danhSachMayTinh.remove(i);
+                danhSachMayTinh.remove(i);  
             }
         }   
         System.out.println("Danh sach sau khi xoa cac may tinh nhan hieu Intel: ");

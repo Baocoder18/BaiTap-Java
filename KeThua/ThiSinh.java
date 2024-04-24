@@ -1,3 +1,4 @@
+package KeThua;
 public class ThiSinh extends Nguoi2{
     private String SBD;
     private double diemToan;

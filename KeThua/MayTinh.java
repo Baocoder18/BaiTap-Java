@@ -1,3 +1,4 @@
+package KeThua;
 public class MayTinh extends May{
     private double TocDo;
     private int dungLuongRAM;

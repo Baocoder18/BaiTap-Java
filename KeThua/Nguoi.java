@@ -1,3 +1,5 @@
+package KeThua;
+
 import java.util.Scanner;
 
 public class Nguoi {
